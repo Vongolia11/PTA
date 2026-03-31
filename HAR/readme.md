@@ -1,4 +1,4 @@
-MIDAS
+PTA
 1. Data Setup
 First, download the XRF55 Dataset.
 
