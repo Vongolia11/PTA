@@ -240,18 +240,7 @@ Before training, it is helpful to verify the following:
 
 ---
 
-## Citation
 
-If you find this repository useful, please cite the corresponding paper. You can replace the placeholder below with the final workshop version:
-
-```bibtex
-@inproceedings{midas2026,
-  title     = {Meta-weighted Diffusion Distillation for Robust Multimodal Human Sensing},
-  author    = {To be updated},
-  booktitle = {CVPR Workshop},
-  year      = {2026}
-}
-```
 
 ---
 
