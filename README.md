@@ -240,7 +240,18 @@ Before training, it is helpful to verify the following:
 
 ---
 
+## Citation
 
+If you find this repository useful, please consider citing:
+
+```bibtex
+@inproceedings{weng2026pta,
+  title     = {Purify-then-Align: Towards Robust Human Sensing under Modality Missing with Knowledge Distillation from Noisy Multimodal Teacher},
+  author    = {Weng, Pengcheng and Qian, Yanyu and Xu, Yangxin and Wang, Fei},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  year      = {2026},
+  note      = {Accepted to CVPR 2026 Workshops}
+}
 
 ---
 
